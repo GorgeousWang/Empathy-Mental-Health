@@ -1,3 +1,5 @@
+# why i fork this project? 
+cause the paper"Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models" use this dataset
 # Empathy in Text-based Mental Health Support
 This repository contains codes and dataset access instructions for the [EMNLP 2020 publication](https://arxiv.org/pdf/2009.08441) on understanding empathy expressed in text-based mental health support.
 
